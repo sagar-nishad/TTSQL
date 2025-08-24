@@ -1,5 +1,5 @@
 USER = "root"
-PASSWWORD = "@Arowana99"
+PASSWWORD = ""
 HOST = "localhost"
 GEMINI_API_KEY = ""
-DATABASE ="sagardb"
+DATABASE =""
